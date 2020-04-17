@@ -18,4 +18,8 @@ The passing score is 70 or greater for both the math and reading exams.
   `typeBins`, that breaks down school performance but with schools grouped by tyoe (charter vs. district).
   Included in all these tables are each of the following: `Average Math Score`, `Average Reading Score`, `% Passing Math`, `% Passing Reading`, `Overall Passing Rate`.
   
- 
+ ## Observations
+* The most telling data is observed when groupig the average scores and passing rates by school type, per-student budget, and school size(total students).
+* Schools with higher per-student budgets did not yeild higher test scores.  More analysis is required as to the reason for this.  It is possible that students with special needs would require a higher budget and would not necessarily score higher on standardized tests.
+* Small and medium size schools produced similar test scores and large schools (over 2000 students) were significantly lower.
+* Charter schools test scores were significantly higher than district schools.  This is to be expected as many times charter schools are able to cherry-pick the best students from the district.
